@@ -1,2 +1,1 @@
-git is a version control system.
-git is free software.
+深圳信息职业技术学院！
