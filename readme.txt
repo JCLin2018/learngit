@@ -1,2 +1,2 @@
+Creating a new branch is quick AND simple.
 
-好吧!gi你好!
